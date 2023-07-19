@@ -35,4 +35,9 @@ deber ́a mostrar un men ́u principal con estas opciones:
      comunicaci ́on, se deber ́an desplegar las estaciones que conforman alguna ruta para efectuarla,
      ya sea por video-fono, o en su defecto, de manera tradicional.
   2. Termina la ejecucion del programa
-  
+
+Una vez que se termine de ejecutar la primera opci ́on, se debe mostrar nuevamente el men ́u prin-
+cipal.
+
+La informaci ́on para cada estaci ́on, mencionada previamente, es fija durante la ejecuci ́on del pro-
+grama, as ́ı como los enlaces directos existentes entre las estaciones.
