@@ -24,7 +24,7 @@ dos tel ́efonos debe ser en ambas direcciones, independientemente de que se enc
 a la misma estaci ́on o a estaciones diferentes y de que se trate de una comunicaci ́on tradicional o
 por video-fono.
 
-#2 Operaciones del programa#
+# 2 Operaciones del programa
 Una vez puesto en ejecuci ́on el programa, deber ́a ejecutar la validaci ́on y extracci ́on de informaci ́on
 de un archivo con extensi ́on .xml para construir la gr ́afica que modela la red de la empresa. Adem ́as,
 deber ́a mostrar un men ́u principal con estas opciones:
